@@ -1,0 +1,1 @@
+﻿namespace DesertImage.Audio{    public interface IPoolable    {        void OnCreate();        void ReturnToPool();    }}
